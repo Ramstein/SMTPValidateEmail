@@ -1,0 +1,6 @@
+15,emails::pankaj@ablindia.com
+16,emails::richa.verma@abnamro.com
+17,emails::farehan@abs.amity.edu||bansim@abs.amity.edu||kuljeetk@abs.amity.edu||naziaa@abs.amity.edu
+18,emails::ruchi.s.bhardwaj@accenture.com
+19,emails::payalkaul@accordccs.com
+20,emails::jyotsna@accountleader.com
